@@ -1,0 +1,17 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "d:\\Esp32-idf\\idf\\v4.4.7\\esp-idf",
+  "idf.pythonInstallPath": "d:\\Esp32-idf\\tools\\idf-python\\3.8.7\\python.exe",
+  "idf.openOcdConfigs": ["board/esp32-wrover-kit-3.3v.cfg"],
+  "idf.portWin": "COM7",
+  "idf.toolsPathWin": "d:\\Esp32-idf",
+  "files.associations": {
+    "esp_ota_ops.h": "c",
+    "mbcontroller.h": "c",
+    "esp_http_client.h": "c",
+    "esp_crt_bundle.h": "c",
+    "esp_https_ota.h": "c",
+    "esp_log.h": "c"
+  },
+  "idf.flashType": "UART"
+}
