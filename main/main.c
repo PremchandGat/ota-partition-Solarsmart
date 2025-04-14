@@ -124,7 +124,7 @@ void cb_connection_ok(void *pvParameter)
     ESP_LOGI("WIFI:", "I have a connection and my IP is %s!", str_ip);
     printf("OTA starts in 5 seconds");
     sleep(5);
-    ota_update_from_url("http://178.128.194.58/xhmodv4.bin", "V1.0");
+    ota_update_from_url("http://178.128.194.58/SPH36004.bin", "V1.0");
 }
 
 void app_main(void)
